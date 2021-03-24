@@ -1,5 +1,5 @@
-# Um clone da tela de login Instagram
-## Demonstration
+# Um clone da tela de login Instagram.
+## Demonstração
 <img src="./img/06.png" alt="Exemplo">
 
 ## 🚀 Tecnologias utilizadas
